@@ -19,5 +19,4 @@ public class Atividade {
         }
     }
 
-    // Getters e Setters opcionais
 }
