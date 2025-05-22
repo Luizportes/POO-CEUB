@@ -20,5 +20,4 @@ public class Aluno {
         notas.add(nota);
     }
 
-    // Getters e Setters opcionais
 }
